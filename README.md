@@ -20,3 +20,4 @@ This material contains information that is <b>freely available to the public</b>
 
 # Contents
 We currently have the Russian GBSB Email List which was previously removed from Pastebin, and we are constantly updating this information. More Open Source information (including SMS, servers, and so on) will be made available in the future!
+> [Russian GBSB Email List](/CONTENTS/emails.txt)
