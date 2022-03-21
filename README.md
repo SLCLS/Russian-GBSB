@@ -1,6 +1,6 @@
 # Russian GBSB
 This repository contains ***Publicly Available*** contact information from **"Russian" (GBSB) Government, Banks, Services, and Businesses**.
-> We have carefully filtered and validated all of them to ensure that they are not individual contacts for personal use.
+> We have carefully filtered and validated all of them to ensure that they are not individual contacts for personal use. Some of them may represent individuals, but we assure you that the contact information is linked to a Russian GBSB.
 
 ##
 
