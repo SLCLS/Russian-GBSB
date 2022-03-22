@@ -1,4 +1,4 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://war.ukraine.ua/support-ukraine/)
 
 # Russian GBSB
 This repository contains ***Publicly Available*** contact information from **"Russian" (GBSB) Government, Banks, Services, and Businesses**.
