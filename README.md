@@ -1,4 +1,4 @@
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://t.me/itarmyofukraine2022)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 # Russian GBSB
 This repository contains ***Publicly Available*** contact information from **"Russian" (GBSB) Government, Banks, Services, and Businesses**.
@@ -22,4 +22,5 @@ This material contains information that is <b>freely available to the public</b>
 
 # Contents
 We currently have the Russian GBSB Email List which was previously removed from Pastebin, and we are constantly updating this information. More Open Source information (including SMS, servers, and so on) will be made available in the future!
-> [Russian GBSB Email List](/CONTENTS/emails.txt) ----- [ [SIGNATURE - Verification](/SIGNATURE) ]
+> [Russian GBSB Email List](/CONTENTS/Emails/emails.txt) ----- [ [SIGNATURE - Verification](/SIGNATURE) ]  
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://t.me/itarmyofukraine2022)
