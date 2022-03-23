@@ -4,6 +4,10 @@
 This repository contains ***Publicly Available*** contact information from **"Russian" (GBSB) Government, Banks, Services, and Businesses**.
 > We have carefully filtered and validated all of them to ensure that they are not individual contacts for personal use. Some of them may represent individuals, but we assure you that the contact information is linked to a Russian GBSB.
 
+> We are fully aware that this material is being used by individuals seeking to share the truth with Russian citizens in the face of Russian Federation censorship. Our team promises to make participation in our community harassment-free for everyone, including Russians and Belarusians. All users, regardless of race or nationality, who want to contribute and improve the project are welcome.
+
+> Peace not War! Glory to Ukraine!
+
 ##
 
 <h3><p align="center">DISCLAIMER</p></h3>
