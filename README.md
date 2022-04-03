@@ -28,3 +28,6 @@ This material contains information that is <b>freely available to the public</b>
 We currently have the Russian GBSB Email List which was previously removed from Pastebin, and we are constantly updating this information. More Open Source information (including SMS, servers, and so on) will be made available in the future!
 > [Russian GBSB Email List](/CONTENTS/Emails/emails.txt) ----- [ [SIGNATURE - Verification](/SIGNATURE) ]  
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://t.me/itarmyofukraine2022)
+
+# Letter Template
+https://www.boycottrussia.info/open-letter-to-ceos
