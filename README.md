@@ -42,3 +42,8 @@ XRP || Memo/Tag:                          rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh    
 XLM || Memo/Tag:                          GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A      ||   106132838  
 XMR:                                      8BpPav4zBtebCL4AsRjqqLSNMpp6q2KpQP9ZAPFUfzS3cMcgwxjao2RBmGfpizmMRHZiHcK1fRbpD9rVboApV7YzBTDGt2U  
 </pre>
+<pre>
+Bank (BPI)/Wire Transfer:
+[         Name           ||   Account no.  ||  Swift code ]
+[ SHAN KENNETH BAYON-ON  ||   4849080097   ||   BOPIPHMM  ]
+</pre>
