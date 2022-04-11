@@ -30,7 +30,7 @@ We currently have the Russian GBSB Email List which was previously removed from
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://t.me/itarmyofukraine2022)
 
 ### Newly Added:
-> [Russian GBSB Domains](/CONTENTS/Domains/domains.txt) ----- [ [SIGNATURE - Verification](/SIGNATURE) ]  
+> [Russian GBSB Domains](/CONTENTS/Domains/domains.txt) ----- [ [Last Updated: 11/04/2022](https://t.me/itarmyofukraine2022) ]  
 
 # Letter Template
 > https://www.boycottrussia.info/open-letter-to-ceos
