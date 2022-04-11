@@ -11,6 +11,7 @@ assignees: NIRVANA101
 <Specified Data/Information>
 
 **Type of data:**
+- [ ] Domains
 - [ ] Emails
 - [ ] SMS
 - [ ] Server
