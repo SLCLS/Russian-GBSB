@@ -49,4 +49,8 @@ XMR:                                      8BpPav4zBtebCL4AsRjqqLSNMpp6q2KpQP9ZAP
 Bank (BPI)/Wire Transfer:
 [         Name           ||   Account no.  ||  Swift code ]
 [ SHAN KENNETH BAYON-ON  ||   4849080097   ||   BOPIPHMM  ]
+
+InstaPayᵖʰ:
+[      Account Name      ||       Email (Linked)      ||  Bank - Account no.  ]
+[    Nirvanian Network   ||  shankenneth21@gmail.com  ||   BPI - 4849080097   ]
 </pre>
