@@ -33,7 +33,7 @@ We currently have the Russian GBSB Email List which was previously removed from
 > [Russian GBSB Domains](/CONTENTS/Domains/domains.txt) ----- [ [Last Updated: 11/04/2022](https://t.me/itarmyofukraine2022) ]  
 
 # Letter Template
-> https://www.boycottrussia.info/open-letter-to-ceos
+> [Boycottrussia - Open Letter](https://www.boycottrussia.info/open-letter-to-ceos)
 
 # Help the Project
 > The funds raised will be used to purchase Mail servers and other digital infrastructure to fight Kremlin censorship.
@@ -54,3 +54,6 @@ InstaPayᵖʰ:
 [      Account Name      ||       Email (Linked)      ||  Bank - Account no.  ]
 [    Nirvanian Network   ||  shankenneth21@gmail.com  ||   BPI - 4849080097   ]
 </pre>
+
+## More information here:
+> [IT Army of Ukraine Resources](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English)
