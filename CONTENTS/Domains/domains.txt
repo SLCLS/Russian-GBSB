@@ -1,3 +1,4 @@
+http://abonent.taxcom.ru
 http://api.mdlp.crpt.ru
 http://api.sb.mdlp.crpt.ru
 http://api.vetrf.ru
@@ -11,6 +12,7 @@ http://ca.kamgov.ru
 http://ca.ntssoft.ru
 http://cfmc.ru
 http://dev1.woodresource.com
+http://docliner.taxcom.ru
 http://dreamkas.ru
 http://edu.1tv.ru
 http://egrul-base.ru
@@ -44,7 +46,9 @@ http://rs1.cse.ru
 http://rsbis.ru
 http://squaretrade.ru
 http://structure.mil.ru
+http://support.taxcom.ru
 http://suz2.crpt.ru
+http://transit1.taxcom.ru
 http://ucestp.ru
 http://udcs.ru
 http://v1.rostec.ru
@@ -122,6 +126,8 @@ https://api.developer.sber.ru
 https://api.etpgpb.ru
 https://api.hh.ru
 https://api.koronapay.com
+https://api.mdlp.crpt.ru
+https://api.sb.mdlp.crpt.ru
 https://api.sberbank.ru
 https://api.superjob.ru
 https://api.unilever.fut.ru
@@ -169,6 +175,7 @@ https://checkout.qiwi.com
 https://cheladmin.ru
 https://chernomorskoe.miranda-media.ru
 https://chibbis.ru
+https://chronopay.ofd.ru
 https://cinemastar.ru
 https://cleanbtc.ru
 https://cloud.rkn.gov.ru
@@ -194,6 +201,7 @@ https://eadaily.com
 https://ecert.vetrf.ru
 https://ecwid.boxberry.ru
 https://eda.yandex.ru
+https://edo-gismt.crpt.ru
 https://er.ru
 https://es.pfrf.ru
 https://esia.gosuslugi.ru
@@ -204,6 +212,7 @@ https://evotor.ru
 https://express.dhl.ru
 https://f.tele2.ru
 https://feodosia.miranda-media.ru
+https://fix-sso.sbis.ru
 https://flashobmen.com
 https://foros.miranda-media.ru
 https://front.platron.ru
@@ -243,6 +252,7 @@ https://jira.boxberry.ru
 https://jira8.cdek.ru
 https://jobs.projects.avito.ru
 https://karofilm.ru
+https://kb.crpt.ru
 https://kino-teatr.ru
 https://kino.1tv.ru
 https://kinomax.ru
@@ -263,10 +273,12 @@ https://lenta.ru
 https://lesegais.ru
 https://lesoseka.com
 https://lesozagotovka.com
+https://lk-ofd.taxcom.ru
 https://lk.atol.ru
 https://lk.boxberry.ru
 https://lk.cdek.ru
 https://lk.cse.ru
+https://lk.ofd.ru
 https://lk.rostec.ru
 https://localandroid.amediateka.ru
 https://lt.sputniknews.ru
@@ -311,8 +323,11 @@ https://nangs.org
 https://napishi.me
 https://nlmk.com
 https://novoozernoye.miranda-media.ru
+https://nrz.api.mdlp.crpt.ru
+https://nrz.api.sb.mdlp.crpt.ru
 https://nucrf.ru
 https://nwudc.ru
+https://ofd.ru
 https://okko.tv
 https://old.woodresource.ru
 https://oliva.miranda-media.ru
@@ -404,6 +419,7 @@ https://spark-interfax.ru
 https://sputnik.by
 https://sputniknews.com
 https://sputniknews.ru
+https://sso.sbis.ru
 https://stage.1tv.ru
 https://star-pro.ru
 https://static.cdek.ru
@@ -412,10 +428,12 @@ https://stroi.gov.ru
 https://subscr.1tv.ru
 https://superchange.net
 https://support.online.atol.ru
+https://suz2.crpt.ru
 https://suzgrid.crpt.ru
 https://t2-aplms.vetrf.ru
 https://t2-idp.vetrf.ru
 https://tass.ru
+https://taxcom.ru
 https://techpark.gazprom-neft.ru
 https://term.atol.ru
 https://term10.cse.ru
@@ -442,6 +460,8 @@ https://vpn.evotor.ru
 https://vseapteki.ru
 https://vsoloviev.ru
 https://web.cse.ru
+https://webmail.sbis.ru
+https://wi.sbis.ru
 https://wink.ru
 https://woodresource.ru
 https://ww-pay.net
@@ -537,6 +557,7 @@ https://www.vtb.ru
 https://www.vtbcapital-pr.ru
 https://www.wood.ru
 https://www.zarplata.ru
+https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai
 https://xn--90aivcdt6dxbc.xn
 https://ya.ru
 https://yalta.miranda-media.ru
@@ -546,4 +567,5 @@ https://youla.ru
 https://zakupki.gov.ru
 https://zarya.by
 https://zdorov.ru
+https://апи.национальный-каталог.рф
 https://пиломатериалы.рф
