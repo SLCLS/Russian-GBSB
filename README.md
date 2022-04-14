@@ -22,7 +22,7 @@ This material contains information that is <b>freely available to the public</b>
   
 > Pull requests are always welcome. Additional information should include "Publicly available source" in the description.
   
-> We are accepting issues and data removal requests, but we can't guarantee that we will accept any request... unless otherwise required by law.
+> We are accepting issues and data removal requests, but we can't guarantee that we will remove any contents... unless otherwise required by law.
 
 # Contents
 We currently have the Russian GBSB Email List which was previously removed from Pastebin, and we are constantly updating this information. More Open Source information (including SMS, servers, and so on) will be made available in the future!
