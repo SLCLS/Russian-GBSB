@@ -191,6 +191,7 @@ https://datalegal.ru
 https://delets.cash
 https://delivery-club.ru
 https://dev.nspk.ru
+https://devices.online.sberbank.ru
 https://digital.gov.ru
 https://docs.fss.ru
 https://dostavista.ru
@@ -215,6 +216,7 @@ https://feodosia.miranda-media.ru
 https://fix-sso.sbis.ru
 https://flashobmen.com
 https://foros.miranda-media.ru
+https://friend.sber.ru
 https://front.platron.ru
 https://fsvps.gov.ru
 https://fut.ru
@@ -308,6 +310,7 @@ https://minobrnauki.gov.ru
 https://minsknews.by
 https://minstroyrf.gov.ru
 https://mintrud.gov.ru
+https://mobilecm.csc.sberbank.ru
 https://mogilevnews.by
 https://monopoly.ru
 https://mos-kino.ru
@@ -328,6 +331,7 @@ https://nrz.api.sb.mdlp.crpt.ru
 https://nucrf.ru
 https://nwudc.ru
 https://ofd.ru
+https://office.sberbank.ru
 https://okko.tv
 https://old.woodresource.ru
 https://oliva.miranda-media.ru
@@ -343,6 +347,7 @@ https://onpz.gazprom-neft.ru
 https://ont.by
 https://oplata.qiwi.com
 https://orel-region.ru
+https://osago.sberbank.ru
 https://p2p.qiwi.com
 https://parking.mos.ru
 https://parkingkrd.ru
@@ -361,10 +366,13 @@ https://premiere.okko.tv
 https://premierzal.ru
 https://president.gov.by
 https://primorskij.miranda-media.ru
+https://promo.sber.ru
 https://prostocash.com
+https://pulse.sber.ru
 https://pwd.wto.economy.gov.ru
 https://qiwi.com
 https://qrator.net
+https://rabota.sber.ru
 https://rabota.vk.com
 https://radiobelarus.by
 https://radiobrestfm.by
@@ -395,9 +403,12 @@ https://rudos.ru
 https://rzdlog.ru
 https://samson-pharma.ru
 https://sber-am.ru
+https://sber.ru
 https://sberbank.ru
+https://sberdevices.ru
 https://sberfn.ru
 https://sbermarket.ru
+https://sberprime.sber.ru
 https://sbis.ru
 https://school.pfrf.ru
 https://scloud.rostec.ru
@@ -430,6 +441,7 @@ https://superchange.net
 https://support.online.atol.ru
 https://suz2.crpt.ru
 https://suzgrid.crpt.ru
+https://syncplay.online.sberbank.ru
 https://t2-aplms.vetrf.ru
 https://t2-idp.vetrf.ru
 https://tass.ru
@@ -439,6 +451,7 @@ https://term.atol.ru
 https://term10.cse.ru
 https://tlxmob.1tv.ru
 https://topcor.ru
+https://tortuga.sberbank.ru
 https://tours.tutu.ru
 https://trade.etpgpb.ru
 https://travelata.ru
@@ -460,6 +473,7 @@ https://vpn.evotor.ru
 https://vseapteki.ru
 https://vsoloviev.ru
 https://web.cse.ru
+https://web4.online.sberbank.ru
 https://webmail.sbis.ru
 https://wi.sbis.ru
 https://wink.ru
@@ -536,6 +550,7 @@ https://www.rubaltic.ru
 https://www.russianhighways.ru
 https://www.rzd.ru
 https://www.sb.by
+https://www.sberbank.com
 https://www.sberbank.ru
 https://www.severstal.com
 https://www.sibur.ru
