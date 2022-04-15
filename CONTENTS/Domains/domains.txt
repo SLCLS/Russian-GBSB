@@ -89,6 +89,7 @@ http://www.ucpir.ru
 http://www.ved.gov.ru
 http://www.y-center.ru
 http://yamal.gazprom-neft.ru
+http://dorogi.platon.ru
 https://109.207.1.11
 https://109.207.1.97
 https://24paybank.ne
@@ -584,3 +585,15 @@ https://zarya.by
 https://zdorov.ru
 https://апи.национальный-каталог.рф
 https://пиломатериалы.рф
+https://platon.ru
+https://lk.platon.ru
+https://gis.platon.ru
+https://cdn.platon.ru
+https://api.platon.ru
+https://map.platon.ru
+https://maptiles-2.platon.ru
+https://mx.platon.ru
+https://mail.cipp.platon.ru
+https://cloud.platon.ru
+https://dns.platon.ru
+https://vpn.platon.ru
