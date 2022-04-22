@@ -30,7 +30,7 @@ We currently have the Russian GBSB Email List which was previously removed from
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://t.me/itarmyofukraine2022)
 
 ### Newly Added:
-> [Unfiltered Emails](CONTENTS/Emails/UNFILTERED%20LIST/email.txt) ------------ [ [:yellow_heart:Special Thanks to Mr IO](https://web.telegram.org/k/) ]  
+> [Unfiltered Emails](CONTENTS/Emails/UNFILTERED%20LIST/email.txt) ------------ [ [:yellow_heart:Special Thanks to Mr IO](mailto:IO_NULL_VOID@PROTONMAIL.COM) ]  
 > [Russian GBSB Domains](/CONTENTS/Domains/domains.txt) ----- [ [Last Updated: 19/04/2022](https://t.me/itarmyofukraine2022) ]
 
 ## Letter Template
