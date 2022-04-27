@@ -46,21 +46,23 @@ We currently have the Russian GBSB Email List which was previously removed from
 > [Awesome OSINT Collection](https://github.com/jivoi/awesome-osint)  
 
 # Help the Project
-> The funds raised will be used to purchase Mail servers and other digital infrastructure to fight Kremlin censorship.
+The funds raised will be used to purchase Mail servers and other digital infrastructure to fight Kremlin censorship.
+> Temporarily unavailable.  There is an issue on our servers, operations will temporarily stop.  
+> But resassured, we will continue fighting Kremlin censorship. 
 <pre>
-Paypal:                                   https://paypal.me/nirvana472821  
-BTC (Segwit):                             bc1ql8aj64few0auzc89mr80jgd63phuh5vzdptqny  
-ETH & BSC & Other ETH fork networks:      0xA912BA4dE46469825C92d2B45FF75ffe58fb8402  
-XRP || Memo/Tag:                          rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh                            ||   494829087  
-XLM || Memo/Tag:                          GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A      ||   106132838  
-XMR:                                      8BpPav4zBtebCL4AsRjqqLSNMpp6q2KpQP9ZAPFUfzS3cMcgwxjao2RBmGfpizmMRHZiHcK1fRbpD9rVboApV7YzBTDGt2U  
+Paypal:                                   xxxxxxxxxxxxxxxxxxxxxxxxxxx  
+BTC (Segwit):                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+ETH & BSC & Other ETH fork networks:      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XRP || Memo/Tag:                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                ||   xxxxxxxxx
+XLM || Memo/Tag:                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          ||   xxxxxxxxx
+XMR:                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 </pre>
 <pre>
 Bank (BPI)/Wire Transfer:
 [         Name           ||   Account no.  ||  Swift code ]
-[ SHAN KENNETH BAYON-ON  ||   4849080097   ||   BOPIPHMM  ]
+[ xxxxxxxxxxxxxxxxxxxxxx ||   xxxxxxxxxxx  ||  xxxxxxxxxx ]
 
 InstaPayᵖʰ:
 [      Account Name      ||       Email (Linked)      ||  Bank - Account no.  ]
-[    Nirvanian Network   ||  shankenneth21@gmail.com  ||   BPI - 4849080097   ]
+[    xxxxxxxxxxxxxxxxx   ||  xxxxxxxxxxxxxxxxxxxxxxx  ||   xxxxxxxxxxxxxxxx   ]
 </pre>
