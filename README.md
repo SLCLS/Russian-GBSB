@@ -45,24 +45,5 @@ We currently have the Russian GBSB Email List which was previously removed from
 > [Scrapy - Website Crawlers](https://github.com/scrapy/scrapy)  
 > [Awesome OSINT Collection](https://github.com/jivoi/awesome-osint)  
 
-# Help the Project
-The funds raised will be used to purchase Mail servers and other digital infrastructure to fight Kremlin censorship.
-> Temporarily unavailable.  There is an issue on our servers, operations will temporarily stop.  
-> But resassured, we will continue fighting Kremlin censorship. 
-<pre>
-Paypal:                                   xxxxxxxxxxxxxxxxxxxxxxxxxxx  
-BTC (Segwit):                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
-ETH & BSC & Other ETH fork networks:      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-XRP || Memo/Tag:                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                ||   xxxxxxxxx
-XLM || Memo/Tag:                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          ||   xxxxxxxxx
-XMR:                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-</pre>
-<pre>
-Bank (BPI)/Wire Transfer:
-[         Name           ||   Account no.  ||  Swift code ]
-[ xxxxxxxxxxxxxxxxxxxxxx ||   xxxxxxxxxxx  ||  xxxxxxxxxx ]
-
-InstaPayᵖʰ:
-[      Account Name      ||       Email (Linked)      ||  Bank - Account no.  ]
-[    xxxxxxxxxxxxxxxxx   ||  xxxxxxxxxxxxxxxxxxxxxxx  ||   xxxxxxxxxxxxxxxx   ]
-</pre>
+# NOTICE
+**After further consideration, we have decided to archive this repository due to a lack of maintainers and funding, as well as the emergence of more significant projects funded by Nirvanian Network that require people on development. If you are interested in maintaining this repository, please contact me at [SCRAPING_PROTECTED](mailto:central.department@proton.me).**
